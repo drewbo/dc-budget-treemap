@@ -73,7 +73,6 @@ var y = d3.scale.linear()
     .domain([0, height])
     .range([0, height]);
 
-//var color = d3.interpolateHcl("hsl(9, 100%, 22%)","hsl(101, 100%, 22%)")
 var color = d3.scale.linear().range(['red','white','green']).domain([-1,0,1])
 
 var treemap = d3.layout.treemap()
@@ -105,8 +104,6 @@ grandparent.append("text")
     .attr("dy", ".75em");
 
 d3.json("data.json", function(root) {
-
-  d3.extent    
 
   initialize(root);
   accumulate(root);
