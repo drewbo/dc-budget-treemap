@@ -1,0 +1,940 @@
+{
+  "name": "DC Budget 2014",
+  "children": [
+    {
+      "name": "Economic Development & Regulation  ",
+      "children": [
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of Planning",
+          "change": 0,
+          "value": 6581
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Department of Consumer and Regulatory Affairs",
+          "change": 25,
+          "value": 41159
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Board of Real Property Assessments and Appeals ",
+          "change": 1,
+          "value": 1684
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Board of Appeals and Review",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Department of Employment Services",
+          "change": 8,
+          "value": 95334
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of the Tenant Advocate",
+          "change": 3,
+          "value": 2132
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "DC Housing Authority Subsidy",
+          "change": 0,
+          "value": 34213
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Department of Housing and Community Development  ",
+          "change": 9,
+          "value": 20739
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of Zoning",
+          "change": 1,
+          "value": 2628
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of Motion Picture & Television Development",
+          "change": 2,
+          "value": 889
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of Small and Local Business Development   ",
+          "change": 24,
+          "value": 6568
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Business Improvements District Transfer",
+          "change": 0,
+          "value": 23000
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Deputy Mayor for Planning and Economic Development",
+          "change": 17,
+          "value": 34231
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Commission on the Arts and Humanities",
+          "change": -53,
+          "value": 5257
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Alcoholic Beverage Regulation Administration",
+          "change": 11,
+          "value": 7565
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Department of Banking and Financial Institutions",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Public Service Commission",
+          "change": 12,
+          "value": 11612
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of the People's Counsel",
+          "change": 7,
+          "value": 6566
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Department of Insurance, Securities and Banking",
+          "change": 5,
+          "value": 18786
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Office of Cable Television and Telecommunications",
+          "change": -14,
+          "value": 8464
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Anacostia Waterfront Corporation Subsidy",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "Housing Production Trust Fund",
+          "change": 97,
+          "value": 43569
+        },
+        {
+          "category": "Economic Development & Regulation  ",
+          "name": "DC Sports Commission Subsidy",
+          "change": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Financing and Other",
+      "children": [
+        {
+          "category": "Financing and Other",
+          "name": "TIF and PILOT Transfer - Dedicated Taxes",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Pay-As-You-Go Capital Fund",
+          "change": -23,
+          "value": 35645
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Short-term Borrowing",
+          "change": 14,
+          "value": 5000
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Certificate of Participation - One Judiciary Square",
+          "change": -24,
+          "value": 24619
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Settlements and Judgements",
+          "change": -1,
+          "value": 21292
+        },
+        {
+          "category": "Financing and Other",
+          "name": "John A. Wilson Building Fund",
+          "change": 7,
+          "value": 4495
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Workforce Investments",
+          "change": 0,
+          "value": 59442
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Non-Departmental   ",
+          "change": -75,
+          "value": 8406
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Cash Reserve",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Equipment Lease Operating",
+          "change": -15,
+          "value": 42677
+        },
+        {
+          "category": "Financing and Other",
+          "name": "School Modernization Fund",
+          "change": 38,
+          "value": 11863
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Pay-Go Contingency",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Repayment of Loans and Interest ",
+          "change": 12,
+          "value": 522794
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Tobacco Trust Fund",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Debt Service - Issuance Costs",
+          "change": 0,
+          "value": 6000
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Grant Disallowance",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Retiree Health Contribution",
+          "change": 0,
+          "value": 107800
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Repayment of Revenue Bonds (HPTF Securitization)",
+          "change": 0,
+          "value": 7824
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Baseball Dedicated Tax Transfer",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Emergency Planning and Security Fund (EP)",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Highway Trust Fund Transfer - Dedicated Taxes",
+          "change": 11,
+          "value": 40306
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Convention Center Transfer - Dedicated Taxes",
+          "change": 11,
+          "value": 118745
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Section 103 Judgements-Gov Dir and Support",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Financing and Other",
+          "name": "Emergency and Contingency Reserve Funds",
+          "change": 633,
+          "value": 5500
+        }
+      ]
+    },
+    {
+      "name": "Governmental Direction & Support",
+      "children": [
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Council of the District of Columbia",
+          "change": 0,
+          "value": 21007
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Customer Service Operations",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Tax Revision Commission",
+          "change": 0,
+          "value": 200
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Once City Fund",
+          "change": 0,
+          "value": 15000
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Department of Real Estate Services",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Section 103 Judgements Gov Dir and Support",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Access to Justice",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Municipal Facilities: Non-Capital",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Medical Liability Captive Insurance Agency",
+          "change": -4,
+          "value": 2537
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Chief Financial Officer",
+          "change": 0,
+          "value": 130038
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Inspector General",
+          "change": 1,
+          "value": 13465
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Attorney General of the District of Columbia",
+          "change": 3,
+          "value": 62318
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the District of Columbia Auditor ",
+          "change": 8,
+          "value": 4276
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Advisory Neighborhood Commissions",
+          "change": 0,
+          "value": 895
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Mayor",
+          "change": -2,
+          "value": 8253
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Community Affairs",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Serve DC",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Secretary",
+          "change": 1,
+          "value": 3266
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "DC Board of Ethics and Government Accountability",
+          "change": 17,
+          "value": 1219
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the City Administrator",
+          "change": -1,
+          "value": 3383
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "D.C. Office of Risk Management",
+          "change": -1,
+          "value": 2946
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Personnel",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "D.C. Human Resources",
+          "change": -6,
+          "value": 7891
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Human Resources Development Fund",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Disability Rights",
+          "change": 1,
+          "value": 980
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Finance and Resource Management",
+          "change": 3,
+          "value": 20165
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Partnerships and Grants and Services",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Contracting and Procurement",
+          "change": 33,
+          "value": 11964
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of the Chief Technology Officer ",
+          "change": 29,
+          "value": 66014
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Department of General Services",
+          "change": 7,
+          "value": 212102
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Contract Appeals Board",
+          "change": 1,
+          "value": 1059
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Board of Elections",
+          "change": 11,
+          "value": 6430
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Campaign Finance",
+          "change": 1,
+          "value": 2629
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Public Employee Relations Board",
+          "change": 1,
+          "value": 1162
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Office of Employee Appeals",
+          "change": 1,
+          "value": 1480
+        },
+        {
+          "category": "Governmental Direction & Support",
+          "name": "Metropolitan Washington Council of Governments",
+          "change": 5,
+          "value": 428
+        }
+      ]
+    },
+    {
+      "name": "Human Support Services",
+      "children": [
+        {
+          "category": "Human Support Services",
+          "name": "Office of Veterans Affairs",
+          "change": -1,
+          "value": 391
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Medicaid Reserve",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Office of Latino Affairs",
+          "change": 0,
+          "value": 2695
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Section 103: Judgments - Human Services",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Human Services    ",
+          "change": 24,
+          "value": 207893
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Health Care Finance",
+          "change": 6,
+          "value": 805071
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Disability Services",
+          "change": 2,
+          "value": 62754
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Youth Rehabilitation Services",
+          "change": -1,
+          "value": 104890
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Asian and Pacific Islander Affairs",
+          "change": 1,
+          "value": 785
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Children and Youth Investment Collaborative",
+          "change": 0,
+          "value": 3000
+        },
+        {
+          "category": "Human Support Services",
+          "name": "DC Energy Office",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Office of Aging",
+          "change": 23,
+          "value": 20504
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Office on Human Rights",
+          "change": 9,
+          "value": 2389
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Disability Compensation",
+          "change": 1,
+          "value": 20021
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Unemployment Compensation",
+          "change": 6,
+          "value": 6887
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Child and Family Services   ",
+          "change": -9,
+          "value": 175738
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Mental Health   ",
+          "change": 7,
+          "value": 206545
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Deputy Mayor for Health and Human Services",
+          "change": 0,
+          "value": 1945
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Health",
+          "change": 3,
+          "value": 81810
+        },
+        {
+          "category": "Human Support Services",
+          "name": "Department of Parks and Recreation",
+          "change": 3,
+          "value": 47246
+        }
+      ]
+    },
+    {
+      "name": "Public Education",
+      "children": [
+        {
+          "category": "Public Education",
+          "name": "Teachers' Retirement System",
+          "change": 394,
+          "value": 31636
+        },
+        {
+          "category": "Public Education",
+          "name": "DC Public Charter School Board",
+          "change": 18,
+          "value": 4134
+        },
+        {
+          "category": "Public Education",
+          "name": "Section 103 Judgements - Public Education System",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Education",
+          "name": "Special Education Transportation",
+          "change": -5,
+          "value": 86688
+        },
+        {
+          "category": "Public Education",
+          "name": "Non-public Tuition",
+          "change": -27,
+          "value": 80000
+        },
+        {
+          "category": "Public Education",
+          "name": "Public education facilities modernization office",
+          "change": 7,
+          "value": 46347
+        },
+        {
+          "category": "Public Education",
+          "name": "Commission on the Arts and Humanities",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Education",
+          "name": "State Board of Education",
+          "change": 0,
+          "value": 587
+        },
+        {
+          "category": "Public Education",
+          "name": "Deputy Mayor for Education",
+          "change": -40,
+          "value": 1826
+        },
+        {
+          "category": "Public Education",
+          "name": "DC Public Library",
+          "change": 24,
+          "value": 52641
+        },
+        {
+          "category": "Public Education",
+          "name": "University of the District of Columbia Subsidy Account",
+          "change": -12,
+          "value": 66691
+        },
+        {
+          "category": "Public Education",
+          "name": "DC Public Charter Schools    ",
+          "change": 15,
+          "value": 616499
+        },
+        {
+          "category": "Public Education",
+          "name": "Office of the State Superintendent of Education",
+          "change": 3,
+          "value": 109852
+        },
+        {
+          "category": "Public Education",
+          "name": "DC Public Schools",
+          "change": -2,
+          "value": 655392
+        }
+      ]
+    },
+    {
+      "name": "Public Safety & Justice",
+      "children": [
+        {
+          "category": "Public Safety & Justice",
+          "name": "Judicial Nomination Commission",
+          "change": 0,
+          "value": 205
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Metropolitan Police Department",
+          "change": 4,
+          "value": 488006
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Forensic Laboratory Technician Training Program",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Criminal Justice Coordinating Council",
+          "change": 15,
+          "value": 516
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Department of Forensic Sciences",
+          "change": 0,
+          "value": 8864
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Corrections Information Council",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Motor Vehicle Theft Prevention Commission (FW)",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Office of Administrative Hearings",
+          "change": 6,
+          "value": 8457
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Justice Grants Administration",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Office of the Chief Medical Examiner",
+          "change": 11,
+          "value": 8725
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Emergency and Disaster Response",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Sentencing and Criminal Code Revision Commision",
+          "change": 1,
+          "value": 1407
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "National Guard",
+          "change": 5,
+          "value": 2941
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Office of Victim Services",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Department of Corrections",
+          "change": 0,
+          "value": 139320
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Homeland Security and Emergency Management Agency",
+          "change": 1,
+          "value": 2027
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Office of Unified Communications",
+          "change": 1,
+          "value": 43803
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Fire and Emergency Medical Services Department",
+          "change": 1,
+          "value": 200989
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Police Officers' and Fire Fighters' Retirement",
+          "change": 15,
+          "value": 110766
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Commission on Judicial Disabilities and Tenure",
+          "change": 0,
+          "value": 295
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Office of Police Complaints",
+          "change": 1,
+          "value": 2110
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Deputy Mayor for Public Safety and Justice",
+          "change": 39,
+          "value": 18180
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "Section 103 Judgements - Public Safety and Justice ",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Safety & Justice",
+          "name": "DC Emergency Management Agency",
+          "change": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Public Works",
+      "children": [
+        {
+          "category": "Public Works",
+          "name": "Washington Metropolitan Area Transit Authority",
+          "change": 3,
+          "value": 300500
+        },
+        {
+          "category": "Public Works",
+          "name": "Department of Motor Vehicles",
+          "change": 2,
+          "value": 37072
+        },
+        {
+          "category": "Public Works",
+          "name": "Mass Transit Subsidy",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Works",
+          "name": "Department of Transportation",
+          "change": 20,
+          "value": 90889
+        },
+        {
+          "category": "Public Works",
+          "name": "District Department of the Environment",
+          "change": 0,
+          "value": 68615
+        },
+        {
+          "category": "Public Works",
+          "name": "School Transit Subsidy",
+          "change": 0,
+          "value": 0
+        },
+        {
+          "category": "Public Works",
+          "name": "Taxicab Commission",
+          "change": 29,
+          "value": 2778
+        },
+        {
+          "category": "Public Works",
+          "name": "Department of Public Works",
+          "change": 6,
+          "value": 118471
+        },
+        {
+          "category": "Public Works",
+          "name": "Washington Metropolitan Area Transit Commission",
+          "change": 0,
+          "value": 126
+        }
+      ]
+    }
+  ]
+}
