@@ -1,7 +1,7 @@
 dc-budget-treemap
 =================
 
-Treemap for DC Budget (currently 2013 data) in D3; obviously inspired by Mike Bostock
+Treemap for DC Budget (currently showing 2014 data) in D3; obviously inspired by Mike Bostock
 
 ### Inspiration
 
@@ -12,6 +12,10 @@ Decided I wanted to recreate (and eventually add functionality to this) via D3.
 Found a [great example](http://bost.ocks.org/mike/treemap/) from Mike Bostock.
 
 ### Data
+
+All in [this folder](https://github.com/drewbo/dc-budget-treemap/tree/master/data)
+
+2014 data available for download here: http://www.dcfpi.org/wp-content/uploads/2013/03/FY2014-General-Fund-Budget-spreadsheet-for-web-FINAL-v.-2.xls
 
 Decided it would be easiest to get the data to match the format used in that example rather than recreating.
 
@@ -57,5 +61,4 @@ Current state is hosted [here](http://drewbo.com/dc-budget-treemap/)
 - Titles overrun their boxes: fix
 - Probably could use hover functionality: make
 - Maybe needs a shiny wrapper: create
-
-    
+- Switching between years: allow
