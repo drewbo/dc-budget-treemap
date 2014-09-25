@@ -13,7 +13,7 @@ Found a [great example](http://bost.ocks.org/mike/treemap/) from Mike Bostock.
 
 ### Data
 
-All in [this folder]((https://github.com/drewbo/dc-budget-treemap/tree/master/data)
+All in [this folder](https://github.com/drewbo/dc-budget-treemap/tree/master/data)
 
 2014 data available for download here: http://www.dcfpi.org/wp-content/uploads/2013/03/FY2014-General-Fund-Budget-spreadsheet-for-web-FINAL-v.-2.xls
 
