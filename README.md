@@ -54,11 +54,3 @@ Added two lines of javascript to color the boxes, representing each agency's bud
     .style("fill", function(d) { return color(d.change / 100 || 0); })
     
 Current state is hosted [here](http://drewbo.com/dc-budget-treemap/)
-
-### Todos
-
-- Color scale isn't great: improve
-- Titles overrun their boxes: fix
-- Probably could use hover functionality: make
-- Maybe needs a shiny wrapper: create
-- Switching between years: allow
